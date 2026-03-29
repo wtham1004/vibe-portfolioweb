@@ -1,0 +1,28 @@
+HTML, CSS, JavaScript로 포트폴리오 앱을 만듭니다.
+
+
+
+HTML, CSS, JavaScript로 포트폴리오 페이지를 만들어 두었습니다.
+
+생성된 파일
+index.html – 메인 구조 (한글 기준)
+styles.css – 레이아웃·스타일
+script.js – 메뉴, 스크롤, 스킬 바·카드 애니메이션
+
+구성 섹션
+홈(Hero) – 인사말, 타이틀, CTA 버튼
+소개(About) – 자기소개 + 연락 버튼
+스킬(Skills) – HTML/CSS, JS, React, Git, UI/UX 등 진행 바
+프로젝트(Projects) – 카드 3개 (제목, 설명, 태그, 링크 자리)
+연락처(Contact) – 이메일, GitHub, LinkedIn 링크
+푸터 – 저작권 문구
+
+디자인·기능
+테마: 다크 배경 + 골드/앰버 포인트, Noto Sans KR + Playfair Display 폰트
+반응형: 모바일에서 햄버거 메뉴로 네비게이션
+스크롤: 스크롤 시 현재 섹션에 맞는 메뉴 항목 강조
+애니메이션: 히어로 텍스트 페이드업, 스킬 바 채워짐, 프로젝트 카드 등장
+
+사용 방법
+index.html을 브라우저에서 열면 됩니다.
+이메일, GitHub, LinkedIn 주소와 프로젝트 링크·내용은 index.html에서 해당 부분만 수정해 사용하시면 됩니다.
